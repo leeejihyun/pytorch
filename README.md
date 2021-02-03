@@ -13,3 +13,4 @@
 * Lab-04-1 Multivariable Linear regression - [코드](https://github.com/leeejihyun/pytorch/blob/main/deeplearningzerotoall/Lab-04-1%20Multivariable%20Linear%20regression.ipynb), [블로그](https://leeejihyun.tistory.com/17?category=902185)
 * Lab-04-2 Loading Data - [코드](https://github.com/leeejihyun/pytorch/blob/main/deeplearningzerotoall/Lab-04-2%20Loading%20Data.ipynb), [블로그](https://leeejihyun.tistory.com/18?category=902185)
 * Lab-05 Logistic Regression - [코드](https://github.com/leeejihyun/pytorch/blob/main/deeplearningzerotoall/Lab-05%20Logistic%20Regression.ipynb), [블로그](https://leeejihyun.tistory.com/19?category=902185)
+* Lab-06 Softmax Classification - [코드](https://github.com/leeejihyun/pytorch/blob/main/deeplearningzerotoall/Lab-06%20Softmax%20Classification.ipynb)
