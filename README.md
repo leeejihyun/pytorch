@@ -16,3 +16,4 @@
 * Lab-06 Softmax Classification - [코드](https://github.com/leeejihyun/pytorch/blob/main/deeplearningzerotoall/Lab-06%20Softmax%20Classification.ipynb), [블로그](https://leeejihyun.tistory.com/20)
 * Lab-07-1 Tips - [코드](https://github.com/leeejihyun/pytorch/blob/main/deeplearningzerotoall/Lab-07-1%20Tips.ipynb)
 * Lab-07-2 MNIST Introduction - [코드](https://github.com/leeejihyun/pytorch/blob/main/deeplearningzerotoall/Lab-07-2%20MNIST%20Introduction.ipynb)
+* Lab-08-1 Perceptron - [코드](https://github.com/leeejihyun/pytorch/blob/main/deeplearningzerotoall/Lab-08-1%20Perceptron.ipynb)
