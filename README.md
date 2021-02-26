@@ -20,3 +20,5 @@
 * Lab-08-2 Multi Layer Perceptron
 * Lab-09-1 ReLU - [코드](https://github.com/leeejihyun/pytorch/blob/main/deeplearningzerotoall/Lab-09-1%20ReLU.ipynb)
 * Lab-09-2 Weight initialization - [코드](https://github.com/leeejihyun/pytorch/blob/main/deeplearningzerotoall/Lab-09-2%20Weight%20initialization.ipynb)
+* Lab-09-3 Dropout - [코드](https://github.com/leeejihyun/pytorch/blob/main/deeplearningzerotoall/Lab-09-3%20Dropout.ipynb)
+* Lab-09-4 Batch Normalization - [코드](https://github.com/leeejihyun/pytorch/blob/main/deeplearningzerotoall/Lab-09-4%20Batch%20Normalization.ipynb)
