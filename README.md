@@ -22,3 +22,8 @@
 * Lab-09-2 Weight initialization - [코드](https://github.com/leeejihyun/pytorch/blob/main/deeplearningzerotoall/Lab-09-2%20Weight%20initialization.ipynb)
 * Lab-09-3 Dropout - [코드](https://github.com/leeejihyun/pytorch/blob/main/deeplearningzerotoall/Lab-09-3%20Dropout.ipynb)
 * Lab-09-4 Batch Normalization - [코드](https://github.com/leeejihyun/pytorch/blob/main/deeplearningzerotoall/Lab-09-4%20Batch%20Normalization.ipynb)
+* Lab-10-1 Convolution - [코드](https://github.com/leeejihyun/pytorch/blob/main/deeplearningzerotoall/Lab-10-1%20Convolution.ipynb)
+* Lab-10-2 mnist cnn - [코드](https://github.com/leeejihyun/pytorch/blob/main/deeplearningzerotoall/Lab-10-2%20mnist%20cnn.ipynb)
+* Lab-10-3 visdom - [코드](https://github.com/leeejihyun/pytorch/blob/main/deeplearningzerotoall/Lab-10-3%20visdom.ipynb)
+* Lab-10-4-1 ImageFolder1 - [코드](https://github.com/leeejihyun/pytorch/blob/main/deeplearningzerotoall/Lab-10-4-1%20ImageFolder1.ipynb)
+* Lab-10-4-2 ImageFolder2 - [코드](https://github.com/leeejihyun/pytorch/blob/main/deeplearningzerotoall/Lab-10-4-2%20ImageFolder2.ipynb)
