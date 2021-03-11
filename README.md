@@ -16,14 +16,29 @@
 * Lab-06 Softmax Classification - [코드](https://github.com/leeejihyun/pytorch/blob/main/deeplearningzerotoall/Lab-06%20Softmax%20Classification.ipynb), [블로그](https://leeejihyun.tistory.com/20)
 * Lab-07-1 Tips - [코드](https://github.com/leeejihyun/pytorch/blob/main/deeplearningzerotoall/Lab-07-1%20Tips.ipynb)
 * Lab-07-2 MNIST Introduction - [코드](https://github.com/leeejihyun/pytorch/blob/main/deeplearningzerotoall/Lab-07-2%20MNIST%20Introduction.ipynb)
+### PART 2: Neural Network
 * Lab-08-1 Perceptron - [코드](https://github.com/leeejihyun/pytorch/blob/main/deeplearningzerotoall/Lab-08-1%20Perceptron.ipynb)
 * Lab-08-2 Multi Layer Perceptron
 * Lab-09-1 ReLU - [코드](https://github.com/leeejihyun/pytorch/blob/main/deeplearningzerotoall/Lab-09-1%20ReLU.ipynb)
 * Lab-09-2 Weight initialization - [코드](https://github.com/leeejihyun/pytorch/blob/main/deeplearningzerotoall/Lab-09-2%20Weight%20initialization.ipynb)
 * Lab-09-3 Dropout - [코드](https://github.com/leeejihyun/pytorch/blob/main/deeplearningzerotoall/Lab-09-3%20Dropout.ipynb)
 * Lab-09-4 Batch Normalization - [코드](https://github.com/leeejihyun/pytorch/blob/main/deeplearningzerotoall/Lab-09-4%20Batch%20Normalization.ipynb)
+### PART 3: Convolutional Neural Network
+* Lab-10-0 Convolution Neural Network intro
 * Lab-10-1 Convolution - [코드](https://github.com/leeejihyun/pytorch/blob/main/deeplearningzerotoall/Lab-10-1%20Convolution.ipynb)
 * Lab-10-2 mnist cnn - [코드](https://github.com/leeejihyun/pytorch/blob/main/deeplearningzerotoall/Lab-10-2%20mnist%20cnn.ipynb)
 * Lab-10-3 visdom - [코드](https://github.com/leeejihyun/pytorch/blob/main/deeplearningzerotoall/Lab-10-3%20visdom.ipynb)
 * Lab-10-4-1 ImageFolder1 - [코드](https://github.com/leeejihyun/pytorch/blob/main/deeplearningzerotoall/Lab-10-4-1%20ImageFolder1.ipynb)
 * Lab-10-4-2 ImageFolder2 - [코드](https://github.com/leeejihyun/pytorch/blob/main/deeplearningzerotoall/Lab-10-4-2%20ImageFolder2.ipynb)
+* Lab-10-5 Advance CNN(VGG) - [코드](https://github.com/leeejihyun/pytorch/blob/main/deeplearningzerotoall/Lab-10-5%20Advance%20CNN(VGG).ipynb)
+* Lab-10-6-1 Advanced CNN(RESNET-1) - [코드](https://github.com/leeejihyun/pytorch/blob/main/deeplearningzerotoall/Lab-10-6-1%20Advanced%20CNN(RESNET-1).ipynb)
+* Lab-10-6-2 Advanced CNN(RESNET-2)
+* Lab-10-7 Next step of CNN
+### PART 4: Recurrent Neural Network
+* Lab-11-0 RNN intro
+* Lab-11-1 RNN basics
+* Lab-11-2 RNN hihello and charseq
+* Lab-11-3 Long sequence
+* Lab-11-4 RNN timeseries
+* Lab-11-5 RNN seq2seq
+* Lab-11-6 PackedSequence
