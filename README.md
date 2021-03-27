@@ -4,7 +4,7 @@
 모두의 딥러닝 시즌 2와 같은 사이트에서 파이토치를 실습한 코드를 올릴 예정입니다.  
 강의 내용도 함께 정리하고 있어 블로그 링크도 첨부합니다.  
 
-## 모두의 딥러닝 시즌 2
+## [모두의 딥러닝 시즌 2](www.boostcourse.org/ai214)
 ### PART 1: Machine Learning & PyTorch Basic
 * Lab-01-1 Tensor Manipulation 1 - [코드](https://github.com/leeejihyun/pytorch/blob/main/deeplearningzerotoall/Lab-01-1%20Tensor%20Manipulation%201.ipynb), [블로그](https://leeejihyun.tistory.com/14?category=902185)
 * Lab-01-2 Tensor Manipulation 2 - [코드](https://github.com/leeejihyun/pytorch/blob/main/deeplearningzerotoall/Lab-01-2%20Tensor%20Manipulation%202.ipynb), [블로그](https://leeejihyun.tistory.com/14?category=902185)
@@ -42,3 +42,11 @@
 * Lab-11-4 RNN timeseries
 * Lab-11-5 RNN seq2seq
 * Lab-11-6 PackedSequence
+
+## [PyTorch를 활용한 딥러닝 튜토리얼](https://pseudo-lab.github.io/Tutorial-Book/)
+### 객체 탐지(Object Detection)
+* 의료용 마스크 탐지 모델 구축
+### 시계열 분석(Time Series)
+* 코로나 확진자 수 예측 모델 구축
+### 생성 모델링(Generative Modeling)
+* 컬러 이미지 생성 모델 구축
